@@ -68,3 +68,5 @@ Para a imagem da logo utilizamos o prompt:
 
 * a lettermark of HealthyLife, logo, serif font, vector, simple --no realistic details (não gostei muito do resultado, mas os créditos acabaram e não consegui gerar outra imagem)
 
+
+
